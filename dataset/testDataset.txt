@@ -1,0 +1,9 @@
+#https://www.codechef.com/problems/ADAKNG
+#The first line of the input contains a single integer T denoting the number of test cases.
+#The description of T test cases follows.
+#The first and only line of each test case contains three space-separated integers R, C and K.
+#https://www.codechef.com/problems/SPLITIT
+The first line of the input contains a single integer T denoting the number of test cases. The description of T
+test cases follows.
+The first line of each test case contains a single integer N.
+The second line contains a single string S.
