@@ -1,0 +1,17 @@
+#https://codeforces.com/problemset/problem/1433/G
+integers n, m and k
+m lines
+integers xi, yi and wi
+next k lines
+two integers ai and bi
+#https://codeforces.com/problemset/problem/1433/F
+integers n, m and k
+next n lines
+#https://codeforces.com/problemset/problem/1433/E
+one integer n
+#https://codeforces.com/problemset/problem/1433/D
+one integer t
+t test cases follow
+one integer n
+n integers a1,a2,...,an
+test case
